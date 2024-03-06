@@ -73,8 +73,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/adhiphalder/adhiphalder/output/snake.svg" alt="Snake animation" />
 
 ###
