@@ -84,7 +84,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adhiphalder/adhiphalder/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{adhiphalder}}/{{adhiphalder}}/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
