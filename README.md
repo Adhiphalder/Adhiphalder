@@ -3,7 +3,11 @@
 </div>
 <h2 align="left">About Me :</h2>
 
-###
+
+<p align="center" style="color: red;">
+  Greetings, I am Adhip Halder, a IT Engineering student with a passion for both technology and artistic expression. Currently enrolled in my IT Engineering program, I have seamlessly blended my academic pursuits with a vibrant career as a Graphic Designer. <br> <br> In tandem with my design endeavors, I have delved into the intricate realm of Ethical Hacking. My knowledge spans a spectrum of cybersecurity facets, from navigating DoS and DDoS intricacies to employing sophisticated tactics like Man-in-the-Middle attacks, Spoofing techniques, Phishing strategies, and a proficiency in tools such as the Social Engineering Toolkit (SET). This dual expertise reflects my commitment to both the aesthetic and the technical facets of the digital landscape.
+</p>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adhiphalder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
