@@ -84,7 +84,7 @@
 
 ###
 
-![Snake animation](https://github.com/{{adhiphalder}}/{{adhiphalder}}/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<seu Adhiphalder>/<seu Adhiphalder>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
