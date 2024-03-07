@@ -5,7 +5,7 @@
 
 
 <p align="center" style="color: red;">
-  Greetings, I am Adhip Halder, a IT Engineering student with a passion for both technology and artistic expression. Currently enrolled in my IT Engineering program, I have seamlessly blended my academic pursuits with a vibrant career as a Graphic Designer. <br> <br> In tandem with my design endeavors, I have delved into the intricate realm of Ethical Hacking. My knowledge spans a spectrum of cybersecurity facets, from navigating DoS and DDoS intricacies to employing sophisticated tactics like Man-in-the-Middle attacks, Spoofing techniques, Phishing strategies, and a proficiency in tools such as the Social Engineering Toolkit (SET). This dual expertise reflects my commitment to both the aesthetic and the technical facets of the digital landscape.
+  𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜, 𝙸 𝚊𝚖 𝙰𝚍𝚑𝚒𝚙 𝙷𝚊𝚕𝚍𝚎𝚛, 𝚊 𝙸𝚃 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚋𝚘𝚝𝚑 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚗𝚍 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚎𝚡𝚙𝚛𝚎𝚜𝚜𝚒𝚘𝚗. 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚎𝚗𝚛𝚘𝚕𝚕𝚎𝚍 𝚒𝚗 𝚖𝚢 𝙸𝚃 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚙𝚛𝚘𝚐𝚛𝚊𝚖, 𝙸 𝚑𝚊𝚟𝚎 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜𝚕𝚢 𝚋𝚕𝚎𝚗𝚍𝚎𝚍 𝚖𝚢 𝚊𝚌𝚊𝚍𝚎𝚖𝚒𝚌 𝚙𝚞𝚛𝚜𝚞𝚒𝚝𝚜 𝚠𝚒𝚝𝚑 𝚊 𝚟𝚒𝚋𝚛𝚊𝚗𝚝 𝚌𝚊𝚛𝚎𝚎𝚛 𝚊𝚜 𝚊 𝙶𝚛𝚊𝚙𝚑𝚒𝚌 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛. <br> <br> 𝙸𝚗 𝚝𝚊𝚗𝚍𝚎𝚖 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚍𝚎𝚜𝚒𝚐𝚗 𝚎𝚗𝚍𝚎𝚊𝚟𝚘𝚛𝚜, 𝙸 𝚑𝚊𝚟𝚎 𝚍𝚎𝚕𝚟𝚎𝚍 𝚒𝚗𝚝𝚘 𝚝𝚑𝚎 𝚒𝚗𝚝𝚛𝚒𝚌𝚊𝚝𝚎 𝚛𝚎𝚊𝚕𝚖 𝚘𝚏 𝙴𝚝𝚑𝚒𝚌𝚊𝚕 𝙷𝚊𝚌𝚔𝚒𝚗𝚐. 𝙼𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚜𝚙𝚊𝚗𝚜 𝚊 𝚜𝚙𝚎𝚌𝚝𝚛𝚞𝚖 𝚘𝚏 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚏𝚊𝚌𝚎𝚝𝚜, 𝚏𝚛𝚘𝚖 𝚗𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚗𝚐 𝙳𝚘𝚂 𝚊𝚗𝚍 𝙳𝙳𝚘𝚂 𝚒𝚗𝚝𝚛𝚒𝚌𝚊𝚌𝚒𝚎𝚜 𝚝𝚘 𝚎𝚖𝚙𝚕𝚘𝚢𝚒𝚗𝚐 𝚜𝚘𝚙𝚑𝚒𝚜𝚝𝚒𝚌𝚊𝚝𝚎𝚍 𝚝𝚊𝚌𝚝𝚒𝚌𝚜 𝚕𝚒𝚔𝚎 𝙼𝚊𝚗-𝚒𝚗-𝚝𝚑𝚎-𝙼𝚒𝚍𝚍𝚕𝚎 𝚊𝚝𝚝𝚊𝚌𝚔𝚜, 𝚂𝚙𝚘𝚘𝚏𝚒𝚗𝚐 𝚝𝚎𝚌𝚑𝚗𝚒𝚚𝚞𝚎𝚜, 𝙿𝚑𝚒𝚜𝚑𝚒𝚗𝚐 𝚜𝚝𝚛𝚊𝚝𝚎𝚐𝚒𝚎𝚜, 𝚊𝚗𝚍 𝚊 𝚙𝚛𝚘𝚏𝚒𝚌𝚒𝚎𝚗𝚌𝚢 𝚒𝚗 𝚝𝚘𝚘𝚕𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 𝚝𝚑𝚎 𝚂𝚘𝚌𝚒𝚊𝚕 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚔𝚒𝚝 (𝚂𝙴𝚃). 𝚃𝚑𝚒𝚜 𝚍𝚞𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎 𝚛𝚎𝚏𝚕𝚎𝚌𝚝𝚜 𝚖𝚢 𝚌𝚘𝚖𝚖𝚒𝚝𝚖𝚎𝚗𝚝 𝚝𝚘 𝚋𝚘𝚝𝚑 𝚝𝚑𝚎 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚏𝚊𝚌𝚎𝚝𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚕𝚊𝚗𝚍𝚜𝚌𝚊𝚙𝚎.
 </p>
 <br>
 
@@ -80,15 +80,20 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/adhiphalder/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/adhip-halder-505835246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.facebook.com/adhip.halder.39" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
   <a href="https://twitter.com/AdhipHalder" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
 
 
 
