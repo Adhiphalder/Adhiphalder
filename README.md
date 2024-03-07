@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiphalder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> <br>
 
-<h2 align="left">Languages :</h2> <br>
+<h2 align="left">Languages-Frameworks-Tools :</h2> <br>
 
 
 <div align="center">
