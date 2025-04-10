@@ -101,7 +101,7 @@
 ###
 
 <div align="center">
-  <img height="136" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47qeyli07soa1fhwpwjj2s91k8gtws0btubjggiwaa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+        <img height="156" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47qeyli07soa1fhwpwjj2s91k8gtws0btubjggiwaa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
