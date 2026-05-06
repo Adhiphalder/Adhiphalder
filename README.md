@@ -26,7 +26,7 @@
 
 <h2 align="left">Languages-Frameworks-Tools :</h2> <br>
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50">
         <img width="12" />
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50" height="50">
