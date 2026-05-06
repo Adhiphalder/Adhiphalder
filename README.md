@@ -21,7 +21,7 @@
   <br/> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Adhiphalder&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhiphalder&hide=contribs,prs)
  <br>
 
 <h2 align="left">Languages-Frameworks-Tools :</h2> <br>
