@@ -17,9 +17,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder&theme=dracula&hide_border=false" />
    <br/> <br/>     
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Adhiphalder&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adhiphalder&show_icons=true&theme=dracula&hide_border=false" />
   <br/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adhiphalder&layout=compact&theme=dracula&hide_border=false" />
 </p>
 
  <br>
