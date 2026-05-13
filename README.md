@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/demo/preview.php?user=Adhiphaalder&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder&theme=dracula&hide_border=false" />
    <br/> <br/>     
   <img src="https://nirzak-streak-stats.vercel.app/?user=Adhiphalder&theme=dracula&hide_border=false" />
   <br/> <br/>
